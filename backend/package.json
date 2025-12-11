@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/parth-jangam/Dev-tinder/issues"
   },
-  "homepage": "https://github.com/parth-jangam/Dev-tinder#readme"
+  "homepage": "https://github.com/parth-jangam/Dev-tinder#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
